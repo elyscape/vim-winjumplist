@@ -4,6 +4,8 @@ Windows 7 introduced a feature called [Jump Lists][jump-lists], which offer easy
 access to recently-used files. Unfortunately, Vim doesn't populate support it.
 Well, winjumplist.vim is here to save the day.
 
+![Vim's Jump List with items in it](https://github.com/elyscape/vim-winjumplist/wiki/screenshots/withjumplist.png)
+
 ## How it works
 
 Windows populates the recent items in an application's Jump List from the
